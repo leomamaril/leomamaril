@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="1000""/>
 </div>
 <h1 align="center">Hi, I'm Leonardo Mamaril</h1>
 <h3 align="center">Freelancer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
 - 📫 How to reach me **lamamaril11@gmail.com**
 
